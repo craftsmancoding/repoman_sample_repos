@@ -1,4 +1,4 @@
-repoman_sample_repos
+Repoman Sample Repos
 ====================
 
 Some sample components for use with Repoman. Each folder represents a sample repository.  They demonstrate MODX components of various complexity so you can see what Repoman (https://github.com/craftsmancoding/repoman) can do.
